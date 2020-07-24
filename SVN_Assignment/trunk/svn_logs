@@ -1,0 +1,7 @@
+SVN logs used for this task!
+
+$ mkdir SVN_Assignment
+$ cd SVN_Assignment
+$ svn co --username assembla_username --password assembla_password https://github.com/CISC3140-Assignments/Assignment2.git/trunk
+$ touch svn_logs
+$ svn add svn_logs

@@ -1,0 +1,15 @@
+Logs of what I have done for this assignment!
+
+Task 1
+$ mkdir CISC3140
+$ cd CISC3140
+$ git init
+
+git clone https://github.com/CISC3140-Assignments/Assignment2.git
+$ cd Assignment2
+$ touch mytext
+$ git status
+$ git add .
+$ git status
+$ git commit -m "Log file created"
+$ git push origin master
